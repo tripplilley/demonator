@@ -40,3 +40,9 @@ description, sketching out narrative descriptions and placeholders, establishing
 domain objects and interactions by mention, etc., until there are enough pieces
 in place to describe enough of the system to begin implementing and testing
 aspects of it.
+
+## TODO
+
+* discuss sliding levels of detail, declarative vs. imperative, etc. (esp. in
+  context of [Writing better
+  Gherkin](https://cucumber.io/docs/bdd/better-gherkin/)).
