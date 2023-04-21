@@ -1,0 +1,17 @@
+{
+  "name": "@tripplilley/demonator",
+  "version": "1.0.0",
+  "packageManager": "yarn@3.5.0",
+  "description": "Tools for iteratively and incrementally describing software systems",
+  "repository": "git@github.com:tripplilley/demonator.git",
+  "author": "Tripp Lilley <tripplilley@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
